@@ -3,9 +3,9 @@ Objective :-
 To learn how Git works with branches and how merge conflicts are resolved.
 
 What I Did?
-* Created a Git repository using `git init`
-* Added a file (`file.txt`) and made the first commit
-* Created a new branch called `feature`
+* Created a Git repository using git init
+* Added a file (file.txt) and made the first commit
+* Created a new branch called feature
 * Made changes to the file in the feature branch and committed
 * Switched back to the main branch and made different changes
 * Tried to merge both branches.
